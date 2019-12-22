@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.519e37e6.chunk.css",
+    "main.js": "/static/js/main.f9c44177.chunk.js",
+    "main.js.map": "/static/js/main.f9c44177.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.604d0543.js",
+    "runtime-main.js.map": "/static/js/runtime-main.604d0543.js.map",
+    "static/js/2.e7c0c19e.chunk.js": "/static/js/2.e7c0c19e.chunk.js",
+    "static/js/2.e7c0c19e.chunk.js.map": "/static/js/2.e7c0c19e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c0980ff697df1a61dfdac12a959c8dd.js": "/precache-manifest.2c0980ff697df1a61dfdac12a959c8dd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.519e37e6.chunk.css.map": "/static/css/main.519e37e6.chunk.css.map",
+    "static/js/2.e7c0c19e.chunk.js.LICENSE": "/static/js/2.e7c0c19e.chunk.js.LICENSE",
+    "static/media/fonts.scss": "/static/media/MillerBanner_Light.aff4e59d.otf",
+    "static/media/arrow.svg": "/static/media/arrow.e5dea59b.svg",
+    "static/media/clock.svg": "/static/media/clock.b29eb6b8.svg",
+    "static/media/empty-star.svg": "/static/media/empty-star.407c5db3.svg",
+    "static/media/filter.svg": "/static/media/filter.4c9473f8.svg",
+    "static/media/globe.svg": "/static/media/globe.2ffa8a52.svg",
+    "static/media/heart.svg": "/static/media/heart.7c6c893d.svg",
+    "static/media/image@2x.jpg": "/static/media/image@2x.8365bbc6.jpg",
+    "static/media/phone.svg": "/static/media/phone.5bad3fe9.svg",
+    "static/media/pin.svg": "/static/media/pin.518eebec.svg",
+    "static/media/star.svg": "/static/media/star.9a5d93ab.svg",
+    "static/media/white-arrow.svg": "/static/media/white-arrow.1865d748.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.604d0543.js",
+    "static/js/2.e7c0c19e.chunk.js",
+    "static/css/main.519e37e6.chunk.css",
+    "static/js/main.f9c44177.chunk.js"
+  ]
+}
